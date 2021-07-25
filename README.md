@@ -2,7 +2,7 @@
 
 ### 💬 Introduction
 
-Hi, There 👋. I'm Bayu Samudra. I'm from Indonesia. Currently, I'm a student at Institut Teknologi Bandung. I've worked as UI/UX Designer on Badan Pengurus Angkatan STEI 2020. I'm very interested in Web Development right now. Currently, I'm exploring Web Development and build some mini-project for my personal exercise. Nice to meet you.
+Hi, There 👋. I'm Bayu Samudra. I'm from Indonesia. Now, I'm a student at Institut Teknologi Bandung. I'm very interested in Web Development right now. Currently, I'm exploring Web Development and build some mini-project for my personal exercise. Nice to meet you.
 
 <!--
 **bayusamudra5502/bayusamudra5502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
