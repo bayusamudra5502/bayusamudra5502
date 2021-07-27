@@ -14,6 +14,7 @@ My name is Bayu Samudra. I'm from Indonesia. Currently, I study at Institut Tekn
 | 2.  | 🎨 BP STEI 2020's Web Design (UI/UX)        | 2020       |
 
 ### 🌱 Tools and Skills
+<img src="assets/skills.png" alt="My Skill" height="50px"  />
 
 ### 📫 Contact
 Feel free to touch me on my email [contact@bayusamudra.my.id](mailto:contact@bayusamudra.my.id).
