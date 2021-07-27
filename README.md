@@ -4,7 +4,7 @@
 
 #### Hi There 👋, I'm Bayu. A Student who interested in Web Development
 
-Hi, There 👋. I'm Bayu Samudra. I'm from Indonesia. Currently, I'm exploring Web Development and build some mini-project for my personal exercise. Nice to meet you.
+My name is Bayu Samudra. I'm from Indonesia. Currently, I'm exploring Web Development and build some mini-project for my personal exercise. Nice to meet you.
 
 <!--
 **bayusamudra5502/bayusamudra5502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
