@@ -12,6 +12,9 @@ My name is Bayu Samudra. I'm from Indonesia. Currently, I study at Institut Tekn
 |:---:| ------------------------------------------- |:----------:|
 | 1.  | 🧍 [Personal Website](https://bayusamudra.my.id)| 2021 - now | 
 | 2.  | 🎨 BP STEI 2020's Web Design (UI/UX)        | 2020       |
+| 3.  | [Parade Wisuda Oktober ITB 2021](https://www.paradewisudaitb.com/) | 2021 |
+| 4.  | Ganesha Prize 2021 Website | 2021 |
+| 5.  | [Suka Makan](https://sukamakan.bayusamudra.my.id) | 2021 |
 
 ### 🌱 Tools and Skills
 <img src="assets/Skills.png" alt="My Skill" height="50px"  />
