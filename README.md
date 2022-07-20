@@ -10,11 +10,11 @@ My name is Bayu Samudra. I'm from Indonesia. Currently, I study at Institut Tekn
 
 | No. | Project                                     | Year       |
 |:---:| ------------------------------------------- |:----------:|
-| 1.  | 🧍 [Personal Website](https://bayusamudra.my.id)| 2021 - now | 
-| 2.  | 🎨 BP STEI 2020's Web Design (UI/UX)        | 2020       |
-| 3.  | [Parade Wisuda Oktober ITB 2021](https://www.paradewisudaitb.com/) | 2021 |
-| 4.  | Ganesha Prize 2021 Website | 2021 |
-| 5.  | [Suka Makan](https://sukamakan.bayusamudra.my.id) | 2021 |
+| 1.  | [Parade Wisuda Oktober ITB 2021](https://www.paradewisudaitb.com/) | 2021 |
+| 2.  | Ganesha Prize 2021 Website | 2021 |
+| 3.  | [Suka Makan](https://sukamakan.bayusamudra.my.id) | 2021 |
+| 4.  | [Iklanlive](https://iklanlive.com/)         | 2022       |
+| 5.  | [SPARTA 2021](https://spartahmif.com/)      | 2022       |
 
 ### 🌱 Tools and Skills
 <img src="assets/Skills.png" alt="My Skill" height="50px"  />
